@@ -1,0 +1,16 @@
+body {
+    background: #6e28d9;
+    height: 20vh;
+    color: white;
+    align-items: center;
+  }
+  
+  .navbar-bg-image {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)), url("../Image/recipeImg/backgroud-img-nav-bar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .dropdown-cls {
+    
+  }
